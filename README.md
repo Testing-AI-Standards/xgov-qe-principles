@@ -2,7 +2,7 @@
 
 ![Quality Check](https://github.com/Testing-AI-Standards/xgov-qe-principles/actions/workflows/standards-check.yml/badge.svg)
 
-![In Review](https://img.shields.io/badge/Phase-Live-green)
+![In Review](https://img.shields.io/badge/Phase-In%20Review-blue)
 <!-- cspell:disable-next-line -->
 ## Quality Engineering Principles for Public Sector
 
