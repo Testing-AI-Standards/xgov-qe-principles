@@ -1,6 +1,6 @@
 # xgov-qe-principles
 
-![Quality Check](https://github.com/qe-principles/xgov-qe-principles/actions/workflows/standards-check.yml/badge.svg)
+![Quality Check](https://github.com/Testing-AI-Standards/xgov-qe-principles/actions/workflows/standards-check.yml/badge.svg)
 
 ![In Review](https://img.shields.io/badge/Phase-Live-green)
 <!-- cspell:disable-next-line -->
@@ -11,7 +11,7 @@ The goal is to gather input and feedback to refine these QE principles.
 
 ## 📄 Document
 
-The framework is located in [principles.md](./principles.md)
+The principles are located in [principles.md](./principles.md)
 
 ## 💬 Contributing Feedback
 
