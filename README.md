@@ -17,9 +17,11 @@ The principles are located in [principles.md](./principles.md)
 
 We welcome contributions and feedback from the community. You can use one of the options:
 
-- Open an [Issue](https://github.com/Testing-AI-Standards/cross-gov-ai-testing-framework/issues) to ask a question or suggest improvements > New Issue > Feedback on principles > Fill the details
-- Submit a Pull Request with proposed changes
-- Use [Discussion](https://github.com/orgs/Testing-AI-Standards/discussions). Tag specific sections for clarification or refinement
+- Open an [Issue](https://github.com/Testing-AI-Standards/xgov-qe-principles/issues) to ask a question or suggest improvements > New Issue > Feedback on principles > Fill the details
+- Submit a Pull Request with proposed changes. Guidance for raising PRs is available in the [contributing guide](./CONTRIBUTING.md)
+- Use [Discussion](https://github.com/orgs/Testing-AI-Standards/discussions) > Feedback - QE Principles. Tag specific sections for clarification or refinement
+
+Thank you for contributing! 🙌
 
 ## 📄 Licence
 
