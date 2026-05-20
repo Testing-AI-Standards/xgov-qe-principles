@@ -1,0 +1,37 @@
+name: Quality Check
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '**/*.html'
+  push:
+    branches:
+      - main
+
+jobs:
+  markdown-lint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install -g markdownlint-cli
+      - run: markdownlint '**/*.md' --ignore node_modules --config markdownlint.json
+
+  spell-check:
+    name: Spell Check (cspell)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install -g cspell
+      - run: ls -la
+      - run: cspell "**/*.{md,html}" --no-progress
+
+  broken-link-check:
+    name: Broken Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: "--no-progress --exclude-mail --verbose **/*.md"

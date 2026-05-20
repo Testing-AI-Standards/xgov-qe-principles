@@ -1,0 +1,25 @@
+name: Feedback on QE Principles
+description: Share your thoughts or suggestions on the QE principles.
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: section
+    attributes:
+      label: Section or Line Number
+      description: What part of the document are you referring to?
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: What suggestion, correction, or question do you have?
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of Feedback
+      options:
+        - Clarity
+        - Accuracy
+        - Missing Content
+        - General Suggestion
+        - Other
