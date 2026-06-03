@@ -65,7 +65,17 @@ automated wherever practical and valuable.
 Automation improves consistency, repeatability, scalability, and
 confidence in delivery outcomes.
 
-## **6. You define quality by user needs and outcomes.**
+## **6. You apply the right assurance approach.**
+
+### **Statement**
+
+Quality should be achieved through a balanced combination of automated and human-led activities, selecting the most appropriate based on risk, complexity and value.
+
+### **Rationale**
+
+While automation provides fast and repeatable feedback, human led activities such as exploratory testing, risk assessment, usability evaluation and critical thinking remain essential for identifying issues that automated checks alone would not detect.
+
+## **7. You define quality by user needs and outcomes.**
 
 ### **Statement**
 
@@ -74,5 +84,15 @@ meet user needs and operational outcomes.
 
 ### **Rationale**
 
-Assurance activities should focus on delivering outcomes that matter
-to users, customers, and the organisation along with compliance.
+Assurance activities should focus on delivering outcomes that add value
+for users, customers, and the organisation along with compliance.
+
+## **8. Quality is a shared responsibility across multidisciplinary teams.**
+
+### **Statement**
+
+Every role involved in the delivery lifecycle is responsbile for contributing to the delivery of high quality outomes.
+
+### **Rationale**
+
+Shared ownership encourages collaboration, earlier risk identification, faster feedback, improved decision making and greater confidence in delivery outcomes. 
