@@ -91,8 +91,8 @@ for users, customers, and the organisation along with compliance.
 
 ### **Statement**
 
-Every role involved in the delivery lifecycle is responsbile for contributing to the delivery of high quality outomes.
+Every role involved in the delivery lifecycle is responsible for contributing to the delivery of high quality outcomes.
 
 ### **Rationale**
 
-Shared ownership encourages collaboration, earlier risk identification, faster feedback, improved decision making and greater confidence in delivery outcomes. 
+Shared ownership encourages collaboration, earlier risk identification, faster feedback, improved decision making and greater confidence in delivery outcomes.

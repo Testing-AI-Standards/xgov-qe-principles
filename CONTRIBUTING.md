@@ -1,6 +1,6 @@
-# Contributing to xgov-qe-principles
+# Raising PR to xgov-qe-principles
 
-We welcome contributions from everyone! This document provides guidance on how to contribute to this project.
+We welcome contributions from everyone! This document provides guidance on how to create PR to this project.
 
 ## How to Raise a Pull Request
 
@@ -75,13 +75,5 @@ git push origin descriptive-branch-name
 2. A maintainer reviews your PR
 3. They may request changes or approve it
 4. Once approved, your changes are merged into `main`
-
-## Questions?
-
-Feel free to:
-
-- Open an [Issue](https://github.com/Testing-AI-Standards/xgov-qe-principles/issues) to discuss ideas
-- Ask questions in your PR
-- Check existing discussions for answers
 
 Thank you for contributing! 🙌
