@@ -87,11 +87,11 @@ meet user needs and operational outcomes.
 Assurance activities should focus on delivering outcomes that add value
 for users, customers, and the organisation along with compliance.
 
-## **8. Quality is a shared responsibility across multidisciplinary teams.**
+## **8. You treat Quality as a shared responsibility.**
 
 ### **Statement**
 
-Every role involved in the delivery lifecycle is responsbile for contributing to the delivery of high quality outomes.
+Quality is a shared responsibility across the delivery lifecycle, with every role contributing to high quality outcomes.
 
 ### **Rationale**
 
