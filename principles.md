@@ -60,15 +60,15 @@ Fast and continuous feedback should exist across delivery, testing, operations, 
 
 Fast feedback helps teams identify issues earlier, reduce uncertainty, and respond more effectively. This enables delivery of value to users faster and more safely.
 
-## **7. You apply the right assurance approach.**
+## **7. You invest in a holistic quality engineering approach.**
 
 ### **Statement**
 
-Quality should be achieved through a balanced combination of automated and human-led activities, selecting the most appropriate based on risk, complexity and value.
+Quality is acheived through a combination of skilled people, effective quality engineering practices, appropriate automation and encompasses functional and non functional quality characteristics.
 
 ### **Rationale**
 
-While automation provides fast and repeatable feedback, human led activities such as exploratory testing, risk assessment, usability evaluation and critical thinking remain essential for identifying issues that automated checks alone would not detect.
+As well as fast, repeatable feedback, Quality depends equally on human capabilities such as curiosity, critical thinking, systems thinking, collaboration and risk assessment. You should take a holistic view of quality, considering not only whether a service works but how well it performs, how accessible, secure, resilient and maintainable it is.
 
 ## **8. You use evidence to guide decisions.**
 
