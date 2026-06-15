@@ -8,7 +8,7 @@ Controls, testing, validation, and assurance activities should be integrated thr
 
 ### **Rationale**
 
-Quality and assurance activities are most effective when they are embedded into the way work is planned, developed, delivered, and operated from the start.
+Quality and assurance activities are most effective when they are embedded into the way work is planned, developed, delivered, and operated from the start, so shifting left aswell as shifting right.
 
 ## **2. You treat Quality as a shared responsibility.**
 
@@ -58,7 +58,7 @@ Fast and continuous feedback should exist across delivery, testing, operations, 
 
 ### **Rationale**
 
-Fast feedback helps teams identify issues earlier, reduce uncertainty, and respond more effectively. This enables delivery of value to users faster and more safely.
+Fast feedback helps teams identify issues earlier, reduce uncertainty, and respond more effectively. Shifting left enables delivery of value to users faster and more safely.
 
 ## **7. You invest in a holistic quality engineering approach.**
 
@@ -78,4 +78,4 @@ Decisions should be informed by data, measurable outcomes, operational insight, 
 
 ### **Rationale**
 
-Evidence-based decision-making improves consistency, prioritisation, and confidence in outcomes, building stakeholder trust through transparency.
+Evidence-based decision-making improves consistency, prioritisation, and confidence in outcomes, building stakeholder trust through transparency and enabling continuous improvement of quality engineering approaches.
