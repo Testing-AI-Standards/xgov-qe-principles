@@ -8,7 +8,7 @@ Controls, testing, validation, and assurance activities should be integrated thr
 
 ### **Rationale**
 
-Quality and assurance activities are most effective when they are embedded into the way work is planned, developed, delivered, and operated from the start, so shifting left aswell as shifting right.
+Quality and assurance activities are most effective when they are embedded into the way work is planned, developed, delivered, and operated from the start, so shifting left as well as shifting right.
 
 ## **2. You treat Quality as a shared responsibility.**
 
@@ -64,11 +64,11 @@ Fast feedback helps teams identify issues earlier, reduce uncertainty, and respo
 
 ### **Statement**
 
-Quality is acheived through a combination of skilled people, effective quality engineering practices, appropriate automation and encompasses functional and non functional quality characteristics.
+Quality is achieved through a combination of skilled people, effective quality engineering practices, appropriate automation and encompasses functional and non functional quality characteristics.
 
 ### **Rationale**
 
-As well as fast, repeatable feedback, Quality depends equally on human capabilities such as curiosity, critical thinking, systems thinking, collaboration and risk assessment. You should take a holistic view of quality, considering not only whether a service works but how well it performs, how accessible, secure, resilient and maintainable it is.
+Alongside fast, repeatable feedback, quality depends equally on human capabilities such as curiosity, critical thinking, systems thinking, collaboration and risk assessment. You should take a holistic view of quality, considering not only whether a service works but how well it performs, how accessible, secure, resilient and maintainable it is.
 
 ## **8. You use evidence to guide decisions.**
 
