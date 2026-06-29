@@ -10,7 +10,7 @@ Controls, testing, validation, and assurance activities should be integrated thr
 
 Quality and assurance activities are most effective when they are embedded into the way work is planned, developed, delivered, and operated from the start, so shifting left as well as shifting right.
 
-## **2. You treat Quality as a shared responsibility.**
+## **2. You treat quality as a shared responsibility.**
 
 ### **Statement**
 
