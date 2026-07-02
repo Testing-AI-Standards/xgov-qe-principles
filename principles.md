@@ -79,3 +79,23 @@ Decisions should be informed by data, measurable outcomes, operational insight, 
 ### **Rationale**
 
 Evidence-based decision-making improves consistency, prioritisation, and confidence in outcomes, building stakeholder trust through transparency and enabling continuous improvement of quality engineering approaches.
+
+## **9. You continuously improve quality practices.**
+
+### **Statement**
+
+Teams should regularly evaluate and improve their quality engineering practices, tools, controls, and ways of working.
+
+### **Rationale**
+
+Delivery environments, technologies, and risks change over time. Continuous improvement ensures quality approaches remain effective, efficient, and aligned with organisational needs.
+
+## **10. You make quality visible.**
+
+### **Statement**
+
+The current level of quality, risk, confidence, and technical debt should be transparent and understood by stakeholders throughout delivery and operation.
+
+### **Rationale**
+
+Quality cannot be managed if it is not visible. Making quality indicators, risks, coverage, defects, and operational health transparent enables informed decisions, shared understanding, and appropriate governance.
