@@ -48,7 +48,7 @@ Repeatable assurance, validation, and control activities should be automated whe
 
 ### **Rationale**
 
-Automation improves consistency, repeatability, scalability, and confidence in delivery outcomes.
+Automation improves consistency, repeatability, scalability, speed, and confidence in delivery outcomes.
 
 ## **6. You shorten feedback loops wherever possible.**
 
