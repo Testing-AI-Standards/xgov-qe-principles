@@ -38,7 +38,7 @@ The level of assurance, governance, and control applied should reflect the level
 
 ### **Rationale**
 
-Not every change requires the same level of assurance. Applying controls proportionately improves effectiveness, speed, and focus.
+Not every change requires the same level of assurance. Applying controls proportionately improves effectiveness, speed, and focus. Also making quality indicators, risks and operational health transparent enables informed decisions, shared understanding, and appropriate governance.
 
 ## **5. You automate repetitive quality engineering activities.**
 
@@ -78,4 +78,4 @@ Decisions should be informed by data, measurable outcomes, operational insight, 
 
 ### **Rationale**
 
-Evidence-based decision-making improves consistency, prioritisation, and confidence in outcomes, building stakeholder trust through transparency and enabling continuous improvement of quality engineering approaches.
+Evidence-based decision-making improves consistency, prioritisation, and confidence in outcomes, building stakeholder trust through transparency and enabling continuous improvement of quality engineering approaches. Teams should also use data and feedback to improve their quality engineering practices, tools, controls, and ways of working.
