@@ -43,7 +43,9 @@
       }
 
       .eyebrow {
-        display: inline-block;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
         margin-bottom: 0.75rem;
         padding: 0.35rem 0.7rem;
         border-radius: 999px;
@@ -52,6 +54,16 @@
         font-size: 0.85rem;
         font-weight: 600;
         letter-spacing: 0.02em;
+      }
+
+      .eyebrow .tag {
+        display: inline-block;
+        padding: 0.1rem 0.45rem;
+        border-radius: 999px;
+        background: var(--accent-dark);
+        color: white;
+        font-size: 0.75rem;
+        font-weight: 700;
       }
 
       h1 {
@@ -141,8 +153,8 @@
   <body>
     <main>
       <section class="hero">
-        <span class="eyebrow">UK Public sector Quality Engineering</span>
-        <h1>xGov Quality Engineering Principles - alpha</h1>
+        <span class="eyebrow">Public sector quality engineering <span class="tag">alpha</span></span>
+        <h1>xGov Quality Engineering Principles</h1>
         <p class="lead">
           This repository brings together a practical set of quality engineering principles for
           teams working in government and public services, supporting better outcomes through
