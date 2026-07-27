@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cross Government Quality Engineering Principles</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #f3f6fb;
+        --surface: #ffffff;
+        --text: #172033;
+        --muted: #5b6474;
+        --accent: #2563eb;
+        --accent-dark: #1d4ed8;
+        --border: #dfe7f3;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Segoe UI", Roboto, Arial, sans-serif;
+        line-height: 1.6;
+        background: linear-gradient(135deg, #eef4ff 0%, var(--bg) 100%);
+        color: var(--text);
+      }
+
+      main {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 3rem 1.25rem 4rem;
+      }
+
+      .hero {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        padding: 2.25rem;
+        box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+      }
+
+      .eyebrow {
+        display: inline-block;
+        margin-bottom: 0.75rem;
+        padding: 0.35rem 0.7rem;
+        border-radius: 999px;
+        background: #dbeafe;
+        color: var(--accent-dark);
+        font-size: 0.85rem;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+      }
+
+      h1 {
+        margin: 0 0 0.75rem;
+        font-size: clamp(1.9rem, 3vw, 2.7rem);
+      }
+
+      .lead {
+        font-size: 1.05rem;
+        color: var(--muted);
+        margin: 0 0 1.25rem;
+        max-width: 700px;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.8rem;
+        margin-top: 1.25rem;
+      }
+
+      .button {
+        display: inline-block;
+        padding: 0.8rem 1rem;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      .button-primary {
+        background: var(--accent);
+        color: white;
+      }
+
+      .button-primary:hover {
+        background: var(--accent-dark);
+      }
+
+      .button-secondary {
+        color: var(--accent-dark);
+        background: #eff6ff;
+      }
+
+      .cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 1rem;
+        margin-top: 1.5rem;
+      }
+
+      .card {
+        background: #fbfdff;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 1rem 1rem 1.1rem;
+      }
+
+      .card h2 {
+        margin: 0 0 0.35rem;
+        font-size: 1rem;
+      }
+
+      .card p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+
+      footer {
+        margin-top: 1.5rem;
+        text-align: center;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+
+      @media (max-width: 640px) {
+        main {
+          padding: 1.25rem 0.9rem 2.5rem;
+        }
+
+        .hero {
+          padding: 1.4rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <span class="eyebrow">Public sector quality engineering</span>
+        <h1>Cross Government Quality Engineering Principles</h1>
+        <p class="lead">
+          This repository brings together a practical set of quality engineering principles for
+          teams working in government and public services, supporting better outcomes through
+          reliable delivery and thoughtful assurance.
+        </p>
+
+        <div class="actions">
+          <a class="button button-primary" href="./principles.html">Read the principles</a>
+          <a class="button button-secondary" href="./CONTRIBUTING.md">Contribute feedback</a>
+        </div>
+
+        <div class="cards">
+          <article class="card">
+            <h2>Why it matters</h2>
+            <p>Promotes dependable, transparent, and user-focused quality practices.</p>
+          </article>
+          <article class="card">
+            <h2>For teams</h2>
+            <p>Helps public sector teams align on shared standards and collaboration.</p>
+          </article>
+          <article class="card">
+            <h2>Open and evolving</h2>
+            <p>Built for feedback, refinement, and community contribution.</p>
+          </article>
+        </div>
+      </section>
+
+      <footer>
+        Cross Government Quality Engineering Principles • Open for review and contribution
+      </footer>
+    </main>
+  </body>
+</html>
