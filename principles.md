@@ -10,15 +10,15 @@ Controls, testing, validation, and assurance activities should be integrated thr
 
 Quality and assurance activities are most effective when they are embedded into the way work is planned, developed, delivered, and operated from the start, so shifting left as well as shifting right.
 
-## **2. You treat quality as a shared responsibility.**
+## **2. You take a holistic approach to engineer the quality.**
 
 ### **Statement**
 
-Every role involved in the delivery lifecycle is responsible for contributing to the delivery of high quality outcomes.
+Quality is a shared responsibility and is achieved through a combination of skilled people, effective quality engineering practices and appropriate technology, considering all relevant quality characteristics, both functional and non-functional.
 
 ### **Rationale**
 
-Shared ownership encourages collaboration, earlier risk identification, faster feedback, improved decision making and greater confidence in delivery outcomes.
+Shared ownership and a holistic approach to quality encourage collaboration, earlier risk identification and faster feedback. Quality depends on both technology and human capabilities such as critical thinking , curiosity, systems thinking and risk assessment. Teams should consider not only whether a service works, but how well it performs, including aspects such as accessibility, security, resilience, testability and maintainability.
 
 ## **3. You define quality by user needs and outcomes.**
 
@@ -60,17 +60,7 @@ Fast and continuous feedback should exist across delivery, testing, operations, 
 
 Fast feedback helps teams identify issues earlier, reduce uncertainty, and respond more effectively. Shifting left enables delivery of value to users faster and more safely.
 
-## **7. You invest in a holistic quality engineering approach.**
-
-### **Statement**
-
-Quality is achieved through a combination of skilled people, effective quality engineering practices, appropriate automation and encompasses functional and non functional quality characteristics.
-
-### **Rationale**
-
-Alongside fast, repeatable feedback, quality depends equally on human capabilities such as curiosity, critical thinking, systems thinking, collaboration and risk assessment. You should take a holistic view of quality, considering not only whether a service works but how well it performs, how accessible, secure, resilient and maintainable it is.
-
-## **8. You use evidence to make quality measurable, visible, and actionable.**
+## **7. You use evidence to make quality measurable, visible, and actionable.**
 
 ### **Statement**
 
