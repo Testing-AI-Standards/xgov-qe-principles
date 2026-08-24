@@ -70,22 +70,12 @@ Quality is achieved through a combination of skilled people, effective quality e
 
 Alongside fast, repeatable feedback, quality depends equally on human capabilities such as curiosity, critical thinking, systems thinking, collaboration and risk assessment. You should take a holistic view of quality, considering not only whether a service works but how well it performs, how accessible, secure, resilient and maintainable it is.
 
-## **8. You use evidence to guide decisions.**
+## **8. You use evidence to make quality measurable, visible, and actionable.**
 
 ### **Statement**
 
-Service and Product decisions should be informed by data, measurable outcomes, operational insight, and objective evidence rather than assumption alone. Alongside this, teams should regularly evaluate and improve their quality engineering practices, tools, controls, and ways of working.
+Service and product decisions should be informed by objective evidence, measurable outcomes, and operational insight. The levels of quality, risk, confidence, technical debt, and operational health should be transparent to stakeholders. Teams should also use this information to continuously improve their quality engineering practices, tools, controls, and ways of working.
 
 ### **Rationale**
 
-Evidence-based decision-making improves consistency, prioritisation, and confidence in outcomes, building stakeholder trust through transparency and enabling continuous improvement of quality engineering approaches. Teams should also use data and feedback to improve their quality engineering practices, tools, controls, and ways of working.
-
-## **9. You make quality measurable and visible.**
-
-### **Statement**
-
-The current level of quality, risk, confidence, and technical debt should be transparent and understood by stakeholders throughout delivery and operation.
-
-### **Rationale**
-
-Effective quality management relies on measurement and visibility. By making quality indicators, risks, test coverage, defects, and operational health fully transparent, we enable shared understanding and effective governance.
+Quality must be measurable, evidence-based and visible so that teams and stakeholders share a clear understanding of the current quality position and associated risks. Making indicators such as coverage, defects, technical debt, operational health and performance visible enables informed decision-making and effective governance. Translating this evidence into actionable feedback loops builds stakeholder trust, increases confidence in releases and supports consistent, continuous improvement across all quality engineering practices.
