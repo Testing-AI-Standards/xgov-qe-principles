@@ -10,7 +10,7 @@ Controls, testing, validation, and assurance activities should be integrated thr
 
 Quality and assurance activities are most effective when they are embedded into the way work is planned, developed, delivered, and operated from the start, so shifting left as well as shifting right.
 
-## **2. You take a holistic approach to engineer the quality.**
+## **2. You take a holistic approach to engineer quality.**
 
 ### **Statement**
 
@@ -64,8 +64,8 @@ Fast feedback helps teams identify issues earlier, reduce uncertainty, and respo
 
 ### **Statement**
 
-Service and product decisions should be informed by objective evidence, measurable outcomes, and operational insight. The levels of quality, risk, confidence, technical debt, and operational health should be transparent to stakeholders. Teams should also use this information to continuously improve their quality engineering practices, tools, controls, and ways of working.
+Quality decisions should be informed by objective evidence, measurable outcomes and operational insight. Quality, risk, confidence, technical debt and operational health should be transparent to stakeholders and used to inform decisions and continuous improvement.
 
 ### **Rationale**
 
-Quality must be measurable, evidence-based and visible so that teams and stakeholders share a clear understanding of the current quality position and associated risks. Making indicators such as coverage, defects, technical debt, operational health and performance visible enables informed decision-making and effective governance. Translating this evidence into actionable feedback loops builds stakeholder trust, increases confidence in releases and supports consistent, continuous improvement across all quality engineering practices.
+Evidence provides a shared understanding of quality and enables informed decisions about risk, release confidence and quality engineering improvements. Making meaningful quality indicators visible helps stakeholders understand the current position, supports effective governance and builds confidence in delivery.
