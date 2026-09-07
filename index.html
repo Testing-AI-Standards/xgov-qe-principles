@@ -42,11 +42,17 @@
         box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
       }
 
+      .hero-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 1rem;
+        margin-bottom: 0.75rem;
+      }
+
       .eyebrow {
         display: inline-flex;
         align-items: center;
-        gap: 0.4rem;
-        margin-bottom: 0.75rem;
         padding: 0.35rem 0.7rem;
         border-radius: 999px;
         background: #dbeafe;
@@ -56,7 +62,7 @@
         letter-spacing: 0.02em;
       }
 
-      .eyebrow .tag {
+      .tag {
         display: inline-block;
         padding: 0.1rem 0.45rem;
         border-radius: 999px;
@@ -153,7 +159,10 @@
   <body>
     <main>
       <section class="hero">
-        <span class="eyebrow">Public Sector Quality Engineering <span class="tag">alpha</span></span>
+        <div class="hero-header">
+          <span class="eyebrow">Public Sector Quality Engineering</span>
+          <span class="tag">alpha</span>
+        </div>
         <h1>xGov Quality Engineering Principles</h1>
         <p class="lead">
           This repository brings together a practical set of quality engineering principles for
